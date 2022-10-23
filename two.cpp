@@ -5,7 +5,7 @@ int main() {
 
   int first_number, second_number, sum;
     
-  cout << "Enter three integers: ";
+  cout << "Enter thrhjge integers: ";
   cin >> first_number >> second_number;
 
   // sum of two numbers in stored in variable sumOfTwoNumbers
